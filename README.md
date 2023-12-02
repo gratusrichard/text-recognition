@@ -37,9 +37,4 @@ The model's accuracy and predictions on sample images will be displayed.
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-vbnet
-Copy code
 
-Replace `[Your Name]` with your name or your preferred attribution. Additionally, you may want to create a `LICENSE` file with the text of the MIT License or another license of your choice.
-
-Feel free to modify this template according to the specifics of your project!
